@@ -1,0 +1,40 @@
+1: Introduksjon til undervisning og pensum i Emne 1
+  - Presentasjon
+  - Undervisning 
+    - tirsdager 10:00 - 11:30
+    - torsdager 12:30 - 14.00
+    - pauser
+    - opptak
+    - spør! snakk, rekk opp hånd, skriv i chat
+    - logg inn med @getacademy.no-bruker
+  - ChatGPT
+    - “skolsk mindset” 
+  - Overblikk over pensum - moduler
+      1: Intro
+      2: Funksjon, variabel, operator, valg 
+      3: Model View Controller og innebygd funksjonalitet for tall, tekst og datoer
+      4: Løkker og lister 
+      5: Enhetstesting 
+      6: Objekter
+
+Plan for undervisningen i Emne 1: 
+
+Uke 1 Torsdag  8.8: Intro til hele pensum + Intro HTML, CSS og tre grunnferdigheter i JavaScript
+      Tirsdag 13.8: Layout med CSS + flere eksempler på JavaScript
+Uke 2 Torsdag 15.8: Intro variabler, operatorer og parametre
+      Tirsdag 20.8: Returverdi, if, sammenligning og logisk verdi
+Uke 3 Torsdag 22.8: Mer om if, logiske operatorer og komponenter
+      Tirsdag 27.8: Introduksjon til MVC
+Uke 4 Torsdag 29.8: Skjemaer i MVC
+                     - Tre måter å variere HTML på
+                     - Innebygd funksjonalitet
+      Tirsdag  3.9: Innebygd funksjonalitet - tall
+                    null undefined
+Uke 5 Torsdag  5.9: Innebygd funksjonalitet - tekst og datoer, eksempler:
+                     - tallpuslespill
+                     - kalender
+      Tirsdag 10.9: Lister og Løkker
+Uke 6 Torsdag 12.9: Enhetstesting
+      Tirsdag 17.9: Objekter
+Uke 7 Torsdag 19.9: Lister av objekter
+      Tirsdag 24.9: Emne 2-app      

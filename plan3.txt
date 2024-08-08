@@ -1,0 +1,23 @@
+2: Enkelt eksempel med litt av “alt”
+  - Visual Studio Code
+    - es6-string-html
+    - LiveServer
+    - LiveShare
+    - JavaScript Booster
+  - Nettleser Google Chrome
+    - Konsollet
+    - Debugging
+  - HTML
+  - CSS 
+    - både inline 
+    - regel for alle
+    - regel for noen
+    - layout
+  - Introduksjon til enkel JavaScript
+    - Endre HTML av en tag ut fra id
+    - Lage egne kommandoer dvs. funksjoner
+    - Kalle funksjoner fra onclick og andre funksjoner
+  GitHub
+  - Ikke meningen at dere skal gjøre det samme parallelt!
+
+    ▼▲◀▶
